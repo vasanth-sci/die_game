@@ -1,0 +1,21 @@
+
+vasanth :The score is 55, age is 55
+ganesh :The score is 88, age is 88
+kumar  :The score is 45, age is 45
+rajesh :The score is 66, age is 66
+jagan :The score is 61, age is 61
+ram :The score is 60, age is 60
+brindha :The score is 59, age is 59
+mukesh :The score is 58, age is 58
+dhanu :The score is 55, age is 55
+ragu :The score is 56, age is 56
+abi :The score is 45, age is 45
+priya :The score is 87, age is 54
+hari :The score is 93, age is 93
+shiva :The score is 52, age is 52
+harish :The score is 51, age is 51
+thiyaga :The score is 50, age is 50
+kamesh :The score is 49, age is 49
+kamalesh :The score is 48, age is 48
+rooban :The score is 47, age is 47
+roobi :The score is 46, age is 46
